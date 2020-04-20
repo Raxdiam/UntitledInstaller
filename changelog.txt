@@ -1,3 +1,7 @@
+1.1.0:
+- Updated and re-arranged GUI
+- The install button will now tell you whether you are installing for the first time, updating, re-installing, or downgrading
+
 1.0.2:
 - Fix for new Forge 1.12.2 installer
 
